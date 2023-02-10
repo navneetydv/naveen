@@ -1,0 +1,14 @@
+<Details>
+<firstname>Navneet</firstname>
+<lastname>yadav</lastname>
+<age>22</age>
+<height>6feet</height>
+<weight>62kg</weight>
+<full-address> Savaiya, machhalishahar, jaunpur-222143 </full-address>
+<state> Uttar Pradesh </state>
+<post> Kishundaspur </post>
+<Qualification>
+<UP-Board>HighSchool = year-2015(Scored 66%)</UP-Board>
+<UP-Board>InterMediate = year-2017(Scored 73%)</UP-Board>
+</Qualification>
+</Details>

@@ -1,0 +1,21 @@
+{
+	"First Name": "Navneet",
+	"Last Name": "Yadav",
+	"Age": 22,
+	"Class": "EVS Gamma Batch",
+	"Village": "Savaiya",
+	"District": "Jaunpur",
+	"Pin Code": 222143,
+	"Education Background": [
+	
+		"High School:2015",
+		"Intermediate:2017",
+		"Graduation:2020",
+		"percentage",
+		[
+			"High School:66",
+			"Intermediate:73",
+			"Graduation:61.76"
+		]
+	]
+}
